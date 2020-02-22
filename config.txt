@@ -1,0 +1,6 @@
+owner=680158335407882276
+prefix=2
+game=2play
+stayinchannel=true
+songinstatus=false
+NjgwODYyMjkwMTAyNDUyMzAx.XlGEmw.kCOpODOOisK9hdg0p8EEk_d23jUWZoRNU
