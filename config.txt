@@ -1,6 +1,6 @@
-owner=680158335407882276
-prefix=2
-game=wplay
+﻿owner=680158335407882276
+prefix=w
+game=wplayا
 stayinchannel=true
 songinstatus=false
-NjgwODYyMjkwMTAyNDUyMzAx.XlGEmw.kCOpODOOisK9hdg0p8EEk_d23jUWZoRNU
+token=NjgwODYyMjkwMTAyNDUyMzAx.XlGEmw.kCOpODOOisK9hdg0p8EEk_d23jU
